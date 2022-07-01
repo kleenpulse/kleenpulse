@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kleenpulse
-- 👀 I’m interested in Javascript,Node JS, React, html, css, and python
-- 🌱 I’m currently learning Python with Jupiter as Framework
-- 💞️ I’m looking to collaborate on projects related to my interests above.
-- 📫 How to reach me ...
+
 
 
 
