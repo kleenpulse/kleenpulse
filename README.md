@@ -7,6 +7,9 @@
 kleenpulse/kleenpulse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![](https://visitcount.itsvg.in/api?id=kleenpulse&icon=5&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I'm currently working on a e-commerce web-scraper
 
