@@ -93,7 +93,7 @@ I work with AI coding agents every day. These are skills I wrote for them. All f
 
 Every project has a write-up on my portfolio. Each one says what broke and how I fixed it, and ends with my real commit count, so you can see what was mine and what was the team's.
 
-## Smaller things
+## AMBITIOUS  PROJECTS
 
 - [Kilomita](https://github.com/kleenpulse/kilomita): a light internet speed test for Nigeria. It also tells you how much data the test used.
 - [Tiny Voca Dashboard](https://github.com/kleenpulse/tiny-voca-dashboard): a local dashboard for a small text-to-speech model. Type text, tune the voice, hear it.
